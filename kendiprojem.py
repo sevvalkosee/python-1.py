@@ -1,4 +1,3 @@
-from cgi import print_form
 
 renkler= ["beyaz","kırmızı","siyah"]
 print (renkler)

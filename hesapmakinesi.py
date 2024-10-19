@@ -1,0 +1,1 @@
+print("hesap makinesi")

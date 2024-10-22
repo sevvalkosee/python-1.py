@@ -1,10 +1,7 @@
-a="python"
-b="pytho"
-b+="n"
+liste1=["a","b","c"]
+liste2 = [1,2,3]
 
-if a is b:
-    print("a=b")
-else:
-    print("a!=b")
-
-
+for harf in liste1:
+ for rakam in liste2:
+print(harf,rakam)
+hatalı kod
